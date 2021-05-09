@@ -7,3 +7,7 @@ this is a readme file
 
 ## Purpose
 the purpose of this file is to provide examples on how to use  git and github together.
+
+## Getting started
+
+to get started with this proj, just clone this repo.
